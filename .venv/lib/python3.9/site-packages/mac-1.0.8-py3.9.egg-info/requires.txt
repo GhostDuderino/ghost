@@ -1,0 +1,8 @@
+PyYAML
+configparser
+prettytable
+pexpect
+argparse
+httplib2
+rfc3987
+progressbar

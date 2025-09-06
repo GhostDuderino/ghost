@@ -1,0 +1,3 @@
+[console_scripts]
+mac = maccli.mac_cli:main
+
