@@ -1,0 +1,8 @@
+# OS metadata
+.DS_Store
+
+# Project logs
+ghost/logs/ghost.log
+
+# Local-only docs/config (do not sync)
+local/
